@@ -1,4 +1,4 @@
-### Java Operators, Control Flow, and Methods**  
+### Java Operators, Control Flow, and Methods
 
 ## **Exercise 1: Advanced Arithmetic and Logical Operations**
 #### **Objective:**  
